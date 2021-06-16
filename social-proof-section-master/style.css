@@ -21,9 +21,9 @@ body{
 .header{
     color: hsl(300, 43%, 22%);
     font-weight: 700;
-    margin: 20px;
+    margin: 20px 0;
     font-size: 20px;
-    margin-top: 60px;
+    text-align:center;
 }
 .para{
     color: hsl(303, 10%, 53%);
@@ -87,6 +87,7 @@ img{
 }
 .pro{
     margin: auto auto auto 40px;
+    padding-top:20px;
 }
 
   .attribution {
@@ -128,8 +129,8 @@ img{
     }
 
      .box{
-        width: 27vw;
-        padding: 2%;
+        width: 27%;
+        padding: 20px;
         position: absolute;
         height: auto;
         top: 10px;
@@ -161,12 +162,12 @@ img{
 
     .para{
         text-align: left;
-        width: 30vw;
+        width: 30%;
     }
 
     .header{
         text-align: left;
-        width: 27vw;
+        width: 27%;
     }
 
 
